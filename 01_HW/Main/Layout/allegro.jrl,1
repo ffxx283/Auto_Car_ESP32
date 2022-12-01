@@ -1,0 +1,560 @@
+\t (00:00:05) allegro 17.4 S027 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sat Apr 16 11:54:04 2022
+\t (00:00:05)         Host=DESKTOP-DVOTS3L User=Administrator Pid=14448 CPUs=12
+\t (00:00:05) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe H:\07_Auto_Car\01_HW\Main\Layout\Auto_Car.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) function xFormBegin redefined
+   (00:00:05) function xFormEnd redefined
+   (00:00:05) function xCheckList redefined
+   (00:00:05) function xGroup redefined
+   (00:00:05) function xText redefined
+   (00:00:05) function xButton redefined
+   (00:00:05) function xEdit redefined
+   (00:00:05) function xInfoText redefined
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Auto_Car"
+\d (00:00:06) Design opened: H:/07_Auto_Car/01_HW/Main/Layout/Auto_Car.brd
+\i (00:00:06) trapsize 10677
+\i (00:00:06) trapsize 10869
+\i (00:00:06) trapsize 10581
+\i (00:00:06) trapsize 10759
+\i (00:00:06) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 1486.991 873.847
+\i (00:00:08) trapsize 21518
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 1452.562 2014.318
+\i (00:00:08) trapsize 10759
+\i (00:00:10) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:00:10) QtSignal CVPLayerGrid CVPBoxAllPwr clicked true
+\i (00:00:11) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:00:11) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:00:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:00:13) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1443.955 1601.167
+\i (00:00:13) trapsize 5380
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1462.246 1835.717
+\i (00:00:14) trapsize 2690
+\i (00:00:16) setwindow form.find
+\i (00:00:16) FORM find all_off  
+\i (00:00:17) FORM find pins YES 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 1459.556 1838.945
+\i (00:00:20) trapsize 5380
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 1612.337 1920.715
+\i (00:00:20) trapsize 2690
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 1602.116 1832.490
+\i (00:02:15) trapsize 5380
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 1609.648 1906.728
+\i (00:02:15) trapsize 2690
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 1591.357 1904.038
+\i (00:03:06) trapsize 5380
+\i (00:03:08) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:03:08) QtSignal CVPLayerGrid CVPBoxAllPwr clicked false
+\i (00:03:09) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:03:10) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:03:10) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 1873.248 1834.104
+\i (00:03:11) trapsize 10759
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 1681.735 1257.413
+\i (00:03:12) trapsize 5380
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in 1352.505 1405.890
+\i (00:03:12) trapsize 2690
+\i (00:03:15) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:03:15) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:03:18) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 1297.633 1413.422
+\i (00:03:19) trapsize 5380
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 1341.746 1391.903
+\i (00:03:20) trapsize 2690
+\i (00:09:40) zoom out 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom out 1335.291 1406.428
+\i (00:09:40) trapsize 5380
+\i (00:09:40) zoom out 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom out 1335.291 1406.429
+\i (00:09:40) trapsize 10759
+\i (00:09:41) zoom in 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom in 1475.161 1903.502
+\i (00:09:41) trapsize 5380
+\i (00:09:44) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in 1287.952 1368.772
+\i (00:09:44) trapsize 2690
+\i (00:09:45) zoom out 1 
+\i (00:09:45) setwindow pcb
+\i (00:09:45) zoom out 1264.819 1418.803
+\i (00:09:45) trapsize 5380
+\i (00:44:09) zoom out 1 
+\i (00:44:09) setwindow pcb
+\i (00:44:09) zoom out 1929.736 1562.975
+\i (00:44:09) trapsize 10759
+\i (00:44:10) zoom in 1 
+\i (00:44:10) setwindow pcb
+\i (00:44:10) zoom in 1406.841 2189.158
+\i (00:44:10) trapsize 5380
+\i (00:44:10) zoom in 1 
+\i (00:44:10) setwindow pcb
+\i (00:44:10) zoom in 1406.842 2189.159
+\i (00:44:10) trapsize 2690
+\i (00:44:15) zoom out 1 
+\i (00:44:15) setwindow pcb
+\i (00:44:15) zoom out 1377.254 2204.221
+\i (00:44:15) trapsize 5380
+\i (10:08:50) xNet Motor_Pwron 
+\i (10:08:50) xNet Gnd 
+\i (10:08:50) xNet Tb6552_5V 
+\i (10:08:50) xNet Tb6552_3V3 
+\i (10:08:50) xrefdes R606 
+\i (10:08:50) xrefdes R609 
+\i (10:08:50) xrefdes R662 
+\i (10:08:50) xrefdes R605 
+\i (10:08:50) xNet N16748644 
+\i (10:08:50) xrefdes R608 
+\i (10:08:50) xNet N16748804 
+\i (10:08:50) xrefdes Q108 
+\i (10:08:50) xrefdes Q106 
+\i (10:08:50) xNet N16748612 
+\i (10:08:50) xNet N16748772 
+\i (10:08:50) xNet Sys_Vcc_5V 
+\i (10:08:50) xrefdes Q107 
+\i (10:08:50) xNet Sys_Vcc_3V3 
+\i (10:08:50) xrefdes Q109 
+\i (10:08:50) xrefdes R607 
+\i (10:08:50) xrefdes R610 
+\i (10:08:50) xNet N16748686 
+\i (10:08:50) xNet N16748846 
+\i (10:08:50) xname_flush 
+\i (10:08:50) xNet '!' Motor_Pwron 
+\i (10:08:50) xNet '!' Gnd 
+\i (10:08:50) xNet '!' Tb6552_5V 
+\i (10:08:50) xNet '!' Tb6552_3V3 
+\i (10:08:50) xrefdes '!' R606 
+\i (10:08:50) xrefdes '!' R609 
+\i (10:08:50) xrefdes '!' R662 
+\i (10:08:50) xrefdes '!' R605 
+\i (10:08:50) xNet '!' N16748644 
+\i (10:08:50) xrefdes '!' R608 
+\i (10:08:50) xNet '!' N16748804 
+\i (10:08:50) xrefdes '!' Q108 
+\i (10:08:50) xrefdes '!' Q106 
+\i (10:08:50) xNet '!' N16748612 
+\i (10:08:50) xNet '!' N16748772 
+\i (10:08:50) xNet '!' Sys_Vcc_5V 
+\i (10:08:50) xrefdes '!' Q107 
+\i (10:08:50) xNet '!' Sys_Vcc_3V3 
+\i (10:08:50) xrefdes '!' Q109 
+\i (10:08:50) xrefdes '!' R607 
+\i (10:08:50) xrefdes '!' R610 
+\i (10:08:50) xNet '!' N16748686 
+\i (10:08:50) xNet '!' N16748846 
+\i (10:08:50) xname_flush '!' 
+\i (10:08:57) xNet N16732485 
+\i (10:08:57) xname_flush 
+\i (10:08:57) trapsize 809
+\i (10:09:00) zoom out 1 
+\i (10:09:00) setwindow pcb
+\i (10:09:00) zoom out 130.957 1185.051
+\i (10:09:00) trapsize 1618
+\i (10:09:00) zoom out 1 
+\i (10:09:00) setwindow pcb
+\i (10:09:00) zoom out 130.956 1185.050
+\i (10:09:00) trapsize 3236
+\i (10:09:03) pick grid -148.616 1194.110
+\t (10:09:03) last pick:  -150.000 1195.000
+\i (10:09:03) zoom in 1 
+\i (10:09:03) setwindow pcb
+\i (10:09:03) zoom in 409.881 1228.410
+\i (10:09:03) trapsize 1618
+\i (10:13:03) zoom out 1 
+\i (10:13:03) setwindow pcb
+\i (10:13:03) zoom out 333.841 1204.789
+\i (10:13:03) trapsize 3236
+\i (10:13:05) zoom in 1 
+\i (10:13:05) setwindow pcb
+\i (10:13:05) zoom in 328.663 1168.547
+\i (10:13:05) trapsize 1618
+\i (10:15:31) zoom out 1 
+\i (10:15:31) setwindow pcb
+\i (10:15:31) zoom out 301.482 1184.079
+\i (10:15:31) trapsize 3236
+\i (10:15:31) zoom out 1 
+\i (10:15:31) setwindow pcb
+\i (10:15:31) zoom out 301.483 1182.785
+\i (10:15:31) trapsize 6472
+\i (10:15:31) pick grid -165.765 1168.547
+\t (10:15:31) last pick:  -165.000 1170.000
+\i (10:15:32) zoom out 1 
+\i (10:15:32) setwindow pcb
+\i (10:15:32) zoom out -164.471 1165.958
+\i (10:15:32) trapsize 12943
+\i (10:15:32) zoom in 1 
+\i (10:15:32) setwindow pcb
+\i (10:15:32) zoom in 656.126 1106.420
+\i (10:15:32) trapsize 6472
+\i (10:15:34) zoom out 1 
+\i (10:15:34) setwindow pcb
+\i (10:15:34) zoom out 656.126 1105.126
+\i (10:15:34) trapsize 12943
+\i (10:15:36) zoom in 1 
+\i (10:15:36) setwindow pcb
+\i (10:15:36) zoom in 1660.517 1842.886
+\i (10:15:36) trapsize 6472
+\i (10:15:38) zoom in 1 
+\i (10:15:38) setwindow pcb
+\i (10:15:38) zoom in 1309.757 1440.354
+\i (10:15:38) trapsize 3236
+\i (10:15:38) zoom in 1 
+\i (10:15:38) setwindow pcb
+\i (10:15:38) zoom in 1309.758 1440.354
+\i (10:15:38) trapsize 1618
+\i (10:15:40) zoom out 1 
+\i (10:15:40) setwindow pcb
+\i (10:15:40) zoom out 1264.781 1427.088
+\i (10:15:40) trapsize 3236
+\i (10:15:41) zoom in 1 
+\i (10:15:41) setwindow pcb
+\i (10:15:41) zoom in 1264.781 1425.793
+\i (10:15:41) trapsize 1618
+\i (10:15:44) zoom out 1 
+\i (10:15:44) setwindow pcb
+\i (10:15:44) zoom out 1336.615 1460.416
+\i (10:15:44) trapsize 3236
+\i (10:15:45) zoom out 1 
+\i (10:15:45) setwindow pcb
+\i (10:15:45) zoom out 1270.606 1418.999
+\i (10:15:45) trapsize 6472
+\i (10:22:14) xNet '!' Sys_Vcc_5V 
+\i (10:22:14) xname_flush '!' 
+\i (10:22:37) xNet '!' Sys_Vcc_5V 
+\i (10:22:37) xname_flush '!' 
+\i (10:22:40) xNet '!' Sys_Vcc_5V 
+\i (10:22:40) xname_flush '!' 
+\i (10:31:19) xrefdes D106 
+\i (10:31:19) xname_flush 
+\i (10:31:19) trapsize 1678
+\i (10:31:19) xrefdes '!' D106 
+\i (10:31:19) xname_flush '!' 
+\i (10:31:23) xNet Ov2640_Reset 
+\i (10:31:23) xNet Sensor_Pwron 
+\i (10:31:23) xNet Sys_Pwr_Shutdown 
+\i (10:31:23) xNet Motor_Pwron 
+\i (10:31:23) xNet Ip5306_Key 
+\i (10:31:23) xNet Radar_Pwron 
+\i (10:31:23) xNet Oled_Reset 
+\i (10:31:23) xname_flush 
+\i (10:31:23) trapsize 7202
+\i (10:31:23) xNet '!' Ov2640_Reset 
+\i (10:31:23) xNet '!' Sensor_Pwron 
+\i (10:31:23) xNet '!' Sys_Pwr_Shutdown 
+\i (10:31:23) xNet '!' Motor_Pwron 
+\i (10:31:23) xNet '!' Ip5306_Key 
+\i (10:31:23) xNet '!' Radar_Pwron 
+\i (10:31:23) xNet '!' Oled_Reset 
+\i (10:31:23) xname_flush '!' 
+\i (10:46:58) xNet Motor_Pwron 
+\i (10:46:58) xname_flush 
+\i (10:46:58) trapsize 2303
+\i (10:46:58) xNet '!' Motor_Pwron 
+\i (10:46:58) xname_flush '!' 
+\i (11:33:24) xNet Sensor_Pwron 
+\i (11:33:24) xname_flush 
+\i (11:33:24) trapsize 1797
+\i (11:33:27) xNet Sensor_Pwron 
+\i (11:33:27) xname_flush 
+\i (11:33:27) trapsize 1797
+\i (12:06:34) xNet '!' Sensor_Pwron 
+\i (12:06:34) xname_flush '!' 
+\i (12:06:35) xNet Motor_Pwron 
+\i (12:06:35) xname_flush 
+\i (12:06:35) trapsize 2303
+\i (12:06:35) xNet '!' Motor_Pwron 
+\i (12:06:35) xname_flush '!' 
+\i (12:20:40) xNet Motor_Pwron 
+\i (12:20:40) xname_flush 
+\i (12:20:40) trapsize 2303
+\i (12:20:44) xNet '!' Motor_Pwron 
+\i (12:20:44) xname_flush '!' 
+\i (12:20:44) xNet Motor_Pwron 
+\i (12:20:44) xname_flush 
+\i (12:20:44) trapsize 2303
+\i (12:20:46) xNet Motor_Pwron 
+\i (12:20:46) xname_flush 
+\i (12:20:46) trapsize 2303
+\i (12:20:47) xNet '!' Motor_Pwron 
+\i (12:20:47) xname_flush '!' 
+\i (12:20:53) xNet '!' Tb6552_5V 
+\i (12:20:53) xname_flush '!' 
+\i (12:51:18) xNet '!' Tb6552_5V 
+\i (12:51:18) xname_flush '!' 
+\i (12:53:32) zoom out 1 
+\i (12:53:32) setwindow pcb
+\i (12:53:32) zoom out 1957.287 1353.858
+\i (12:53:32) trapsize 4606
+\i (12:53:37) zoom in 1 
+\i (12:53:37) setwindow pcb
+\i (12:53:37) zoom in 1810.819 1391.626
+\i (12:53:37) trapsize 2303
+\i (12:55:17) zoom out 1 
+\i (12:55:17) setwindow pcb
+\i (12:55:17) zoom out 1640.400 1352.476
+\i (12:55:17) trapsize 4606
+\i (12:55:18) zoom in 1 
+\i (12:55:18) setwindow pcb
+\i (12:55:18) zoom in 1291.270 1330.367
+\i (12:55:18) trapsize 2303
+\i (12:55:36) zoom out 1 
+\i (12:55:36) setwindow pcb
+\i (12:55:36) zoom out 1351.147 1305.956
+\i (12:55:36) trapsize 4606
+\i (12:58:47) zoom in 1 
+\i (12:58:47) setwindow pcb
+\i (12:58:47) zoom in 1821.873 1416.498
+\i (12:58:47) trapsize 2303
+\i (12:59:26) xNet N16748772 
+\i (12:59:26) xname_flush 
+\i (12:59:26) trapsize 1013
+\i (12:59:29) zoom out 1 
+\i (12:59:29) setwindow pcb
+\i (12:59:29) zoom out 1732.980 1400.085
+\i (12:59:29) trapsize 2025
+\i (13:01:29) zoom out 1 
+\i (13:01:29) setwindow pcb
+\i (13:01:29) zoom out 1720.828 1372.944
+\i (13:01:29) trapsize 4051
+\i (13:01:29) zoom out 1 
+\i (13:01:29) setwindow pcb
+\i (13:01:29) zoom out 1856.939 1370.514
+\i (13:01:29) trapsize 8102
+\i (13:01:30) pick grid 1675.459 1321.904
+\t (13:01:30) last pick:  1675.000 1320.000
+\i (13:01:31) zoom in 1 
+\i (13:01:31) setwindow pcb
+\i (13:01:31) zoom in 1310.878 1436.949
+\i (13:01:31) trapsize 4051
+\i (13:01:31) zoom in 1 
+\i (13:01:31) setwindow pcb
+\i (13:01:31) zoom in 1310.879 1436.949
+\i (13:01:31) trapsize 2025
+\i (13:01:32) pick grid 1328.703 1457.204
+\t (13:01:32) last pick:  1330.000 1455.000
+\i (13:01:33) zoom out 1 
+\i (13:01:33) setwindow pcb
+\i (13:01:33) zoom out 1328.703 1457.204
+\i (13:01:33) trapsize 4051
+\i (13:01:33) zoom out 1 
+\i (13:01:33) setwindow pcb
+\i (13:01:33) zoom out 1328.704 1456.394
+\i (13:01:33) trapsize 8102
+\i (13:01:34) zoom in 1 
+\i (13:01:34) setwindow pcb
+\i (13:01:34) zoom in 1328.703 1456.394
+\i (13:01:34) trapsize 4051
+\i (13:01:35) pick grid 1445.369 1676.763
+\t (13:01:35) last pick:  1445.000 1675.000
+\i (13:01:44) zoom out 1 
+\i (13:01:44) setwindow pcb
+\i (13:01:44) zoom out 1511.804 1732.665
+\i (13:01:44) trapsize 8102
+\i (13:01:45) zoom in 1 
+\i (13:01:45) setwindow pcb
+\i (13:01:45) zoom in 1523.146 1988.682
+\i (13:01:45) trapsize 4051
+\i (13:02:02) zoom in 1 
+\i (13:02:02) setwindow pcb
+\i (13:02:02) zoom in 1506.943 1908.475
+\i (13:02:02) trapsize 2025
+\i (13:02:04) zoom out 1 
+\i (13:02:04) setwindow pcb
+\i (13:02:04) zoom out 1506.943 1908.475
+\i (13:02:04) trapsize 4051
+\i (13:02:05) zoom in 1 
+\i (13:02:05) setwindow pcb
+\i (13:02:05) zoom in 1314.121 1432.090
+\i (13:02:05) trapsize 2025
+\i (13:02:05) zoom in 1 
+\i (13:02:05) setwindow pcb
+\i (13:02:05) zoom in 1314.121 1432.090
+\i (13:02:05) trapsize 1013
+\i (13:02:07) zoom out 1 
+\i (13:02:07) setwindow pcb
+\i (13:02:07) zoom out 1326.072 1456.599
+\i (13:02:07) trapsize 2025
+\i (13:02:07) zoom out 1 
+\i (13:02:07) setwindow pcb
+\i (13:02:07) zoom out 1326.071 1456.598
+\i (13:02:07) trapsize 4051
+\i (13:02:08) setwindow form.find
+\i (13:02:08) FORM find all_off  
+\i (13:02:09) FORM find nets YES 
+\i (13:02:10) setwindow pcb
+\i (13:02:10) pick grid 1351.187 1467.131
+\t (13:02:10) last pick:  1350.000 1465.000
+\i (13:02:11) zoom out 1 
+\i (13:02:11) setwindow pcb
+\i (13:02:11) zoom out 1351.187 1467.131
+\i (13:02:11) trapsize 8102
+\i (13:02:15) pick grid tgl 1547.251 1906.247
+\t (13:02:15) last pick:  1545.000 1905.000
+\i (13:02:17) zoom in 1 
+\i (13:02:17) setwindow pcb
+\i (13:02:17) zoom in 1574.797 1928.932
+\i (13:02:17) trapsize 4051
+\i (13:02:18) zoom out 1 
+\i (13:02:18) setwindow pcb
+\i (13:02:18) zoom out 1574.797 1928.932
+\i (13:02:18) trapsize 8102
+\i (13:02:20) zoom in 1 
+\i (13:02:20) setwindow pcb
+\i (13:02:20) zoom in 1511.603 1682.639
+\i (13:02:20) trapsize 4051
+\i (13:02:33) zoom out 1 
+\i (13:02:33) setwindow pcb
+\i (13:02:33) zoom out 1437.877 1701.273
+\i (13:02:33) trapsize 8102
+\i (13:02:34) zoom in 1 
+\i (13:02:34) setwindow pcb
+\i (13:02:34) zoom in 1298.526 1390.165
+\i (13:02:34) trapsize 4051
+\i (13:02:34) zoom in 1 
+\i (13:02:34) setwindow pcb
+\i (13:02:34) zoom in 1298.526 1390.975
+\i (13:02:34) trapsize 2025
+\i (13:02:34) zoom out 1 
+\i (13:02:34) setwindow pcb
+\i (13:02:34) zoom out 1251.131 1399.887
+\i (13:02:34) trapsize 4051
+\i (13:02:35) zoom in 1 
+\i (13:02:35) setwindow pcb
+\i (13:02:35) zoom in 1395.342 1430.674
+\i (13:02:35) trapsize 2025
+\i (13:02:36) zoom out 1 
+\i (13:02:36) setwindow pcb
+\i (13:02:36) zoom out 1334.174 1448.093
+\i (13:02:36) trapsize 4051
+\i (13:02:37) zoom out 1 
+\i (13:02:37) setwindow pcb
+\i (13:02:37) zoom out 1469.474 1715.453
+\i (13:02:37) trapsize 8102
+\i (13:02:37) zoom in 1 
+\i (13:02:37) setwindow pcb
+\i (13:02:37) zoom in 1435.447 2092.995
+\i (13:02:37) trapsize 4051
+\i (13:02:38) zoom in 1 
+\i (13:02:38) setwindow pcb
+\i (13:02:38) zoom in 1597.483 2130.263
+\i (13:02:38) trapsize 2025
+\i (13:03:16) zoom out 1 
+\i (13:03:16) setwindow pcb
+\i (13:03:16) zoom out 1591.811 1980.786
+\i (13:03:16) trapsize 4051
+\i (13:03:18) zoom in 1 
+\i (13:03:18) setwindow pcb
+\i (13:03:18) zoom in 1611.257 1885.184
+\i (13:03:18) trapsize 2025
+\i (13:03:20) setwindow form.find
+\i (13:03:20) FORM find nets NO 
+\i (13:03:21) FORM find pins YES 
+\i (13:03:31) setwindow pcb
+\i (13:03:31) zoom out 1 
+\i (13:03:31) setwindow pcb
+\i (13:03:31) zoom out 1612.877 1877.082
+\i (13:03:31) trapsize 4051
+\i (13:03:32) zoom out 1 
+\i (13:03:32) setwindow pcb
+\i (13:03:32) zoom out 1612.877 1877.083
+\i (13:03:32) trapsize 8102
+\i (13:03:32) pick grid 1413.574 2489.578
+\t (13:03:32) last pick:  1415.000 2490.000
+\i (13:03:33) zoom in 1 
+\i (13:03:33) setwindow pcb
+\i (13:03:33) zoom in 1565.888 1893.286
+\i (13:03:33) trapsize 4051
+\i (13:03:34) zoom out 1 
+\i (13:03:34) setwindow pcb
+\i (13:03:34) zoom out 1497.023 2070.716
+\i (13:03:34) trapsize 8102
+\i (13:03:34) zoom out 1 
+\i (13:03:34) setwindow pcb
+\i (13:03:34) zoom out 1495.403 2064.234
+\i (13:03:34) trapsize 16204
+\i (13:03:35) zoom in 1 
+\i (13:03:35) setwindow pcb
+\i (13:03:35) zoom in 1595.865 1380.444
+\i (13:03:35) trapsize 8102
+\i (13:03:36) zoom out 1 
+\i (13:03:36) setwindow pcb
+\i (13:03:36) zoom out 1568.319 1696.413
+\i (13:03:36) trapsize 16204
+\i (13:03:36) zoom in 1 
+\i (13:03:36) setwindow pcb
+\i (13:03:36) zoom in 1691.466 1709.377
+\i (13:03:36) trapsize 8102
+\i (13:03:37) zoom in 1 
+\i (13:03:37) setwindow pcb
+\i (13:03:37) zoom in 1581.282 1971.875
+\i (13:03:37) trapsize 4051
+\i (13:03:37) zoom in 1 
+\i (13:03:37) setwindow pcb
+\i (13:03:37) zoom in 1582.902 1895.718
+\i (13:03:37) trapsize 2025
+\i (13:04:59) pick grid 1685.390 1862.096
+\t (13:04:59) last pick:  1685.000 1860.000
+\i (13:05:00) zoom out 1 
+\i (13:05:00) setwindow pcb
+\i (13:05:00) zoom out 1694.707 1817.941
+\i (13:05:00) trapsize 4051
+\i (13:05:01) zoom in 1 
+\i (13:05:01) setwindow pcb
+\i (13:05:01) zoom in 1623.412 2004.283
+\i (13:05:01) trapsize 2025
+\i (13:06:10) pick grid 1635.565 1805.789
+\t (13:06:10) last pick:  1635.000 1805.000
+\i (13:19:01) xrefdes L204 
+\i (13:19:01) xname_flush 
+\i (13:19:01) trapsize 2953
+\i (13:19:03) xrefdes '!' L204 
+\i (13:19:03) xname_flush '!' 
+\i (13:19:07) xrefdes C644 
+\i (13:19:07) xname_flush 
+\i (13:19:07) trapsize 1599
+\i (13:19:08) xrefdes '!' C644 
+\i (13:19:08) xname_flush '!' 
+\i (13:19:08) xrefdes L204 
+\i (13:19:08) xname_flush 
+\i (13:19:08) trapsize 2953
+\i (13:19:09) xrefdes '!' L204 
+\i (13:19:09) xname_flush '!' 
+\i (13:19:12) exit 
+\e (13:19:12) Do you want to save the changes you made to Auto_Car.brd?
+\i (13:19:13) fillin no 
+\t (13:19:14)     Journal end - Sun Apr 17 01:13:13 2022

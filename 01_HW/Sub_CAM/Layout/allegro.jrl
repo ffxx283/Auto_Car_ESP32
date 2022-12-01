@@ -1,0 +1,201 @@
+\t (00:00:05) allegro 17.4 S027 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sun Mar 20 10:33:50 2022
+\t (00:00:05)         Host=DESKTOP-DVOTS3L User=Administrator Pid=11040 CPUs=12
+\t (00:00:05) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe H:\07_Auto_Car\01_HW\Sub_CAM\Layout\sub_cam.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) function xFormBegin redefined
+   (00:00:05) function xFormEnd redefined
+   (00:00:05) function xCheckList redefined
+   (00:00:05) function xGroup redefined
+   (00:00:05) function xText redefined
+   (00:00:05) function xButton redefined
+   (00:00:05) function xEdit redefined
+   (00:00:05) function xInfoText redefined
+\t (00:00:08) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sub_cam"
+\d (00:00:12) Design opened: H:/07_Auto_Car/01_HW/Sub_CAM/Layout/sub_cam.brd
+\i (00:00:15) trapsize 8236
+\i (00:00:15) trapsize 8384
+\i (00:00:15) trapsize 8162
+\i (00:00:15) trapsize 8299
+\i (00:00:16) generaledit 
+\i (00:00:17) pick grid 3744.006 898.181
+\t (00:00:17) last pick:  3744.000 898.000
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 3309.138 876.603
+\i (00:00:18) trapsize 4150
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 3309.138 876.604
+\i (00:00:18) trapsize 2075
+\i (00:00:19) pick grid 3299.594 771.622
+\t (00:00:19) last pick:  3300.000 772.000
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3140.668 916.024
+\i (00:00:20) trapsize 1037
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3140.668 916.024
+\i (00:00:20) trapsize 519
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3146.062 912.913
+\i (00:00:21) trapsize 1037
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3146.062 912.912
+\i (00:00:21) trapsize 2075
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3146.062 912.913
+\i (00:00:21) trapsize 4150
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3242.331 790.087
+\i (00:00:21) trapsize 8299
+\i (00:00:22) roam start
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam end
+\i (00:00:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 01-SILKTOP"
+\i (00:00:25) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 01-SILKTOP"
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 02-SOLDTOP"
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 02-SOLDTOP"
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 03-PASTTOP"
+\i (00:00:26) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 03-PASTTOP"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 04-TOP"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 04-TOP"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 07-BOTTOM"
+\i (00:00:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 07-BOTTOM"
+\i (00:00:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 08-PASTBOT"
+\i (00:00:28) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 08-PASTBOT"
+\i (00:00:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 09-SOLDBOT"
+\i (00:00:28) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 09-SOLDBOT"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 10-SILKBOT"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 10-SILKBOT"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 11-DRILL"
+\i (00:00:29) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 11-DRILL"
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 12-OUTLINE"
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 12-OUTLINE"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 14-ADB"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 14-ADB"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 12-OUTLINE"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 12-OUTLINE"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 11-DRILL"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 11-DRILL"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 10-SILKBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 10-SILKBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 09-SOLDBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 09-SOLDBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 08-PASTBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 08-PASTBOT"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 07-BOTTOM"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 07-BOTTOM"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 04-TOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 04-TOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 03-PASTTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 03-PASTTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 02-SOLDTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 02-SOLDTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 01-SILKTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 01-SILKTOP"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "------------------------"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "------------------------"
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:00:33) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "------------------------"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "------------------------"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 01-SILKTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 01-SILKTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 02-SOLDTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 02-SOLDTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 03-PASTTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 03-PASTTOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 04-TOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 04-TOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 07-BOTTOM"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 07-BOTTOM"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 08-PASTBOT"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 08-PASTBOT"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 09-SOLDBOT"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 09-SOLDBOT"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 10-SILKBOT"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 10-SILKBOT"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 11-DRILL"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 11-DRILL"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 12-OUTLINE"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 12-OUTLINE"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 14-ADB"
+\i (00:00:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 14-ADB"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 12-OUTLINE"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 12-OUTLINE"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 11-DRILL"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 11-DRILL"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 10-SILKBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 10-SILKBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 09-SOLDBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 09-SOLDBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 08-PASTBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 08-PASTBOT"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 07-BOTTOM"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 07-BOTTOM"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 04-TOP"
+\i (00:00:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 04-TOP"
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2992.586 1265.122
+\i (00:00:37) trapsize 16598
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 01-SILKTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 01-SILKTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 02-SOLDTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 02-SOLDTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 03-PASTTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 03-PASTTOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 04-TOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 04-TOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 07-BOTTOM"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 07-BOTTOM"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 08-PASTBOT"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 08-PASTBOT"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 09-SOLDBOT"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 09-SOLDBOT"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 10-SILKBOT"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 10-SILKBOT"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 11-DRILL"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 11-DRILL"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 12-OUTLINE"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 12-OUTLINE"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 13-ADT"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 13-ADT"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 14-ADB"
+\i (00:00:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 14-ADB"
+\i (00:00:41) exit 
+\t (00:00:41)     Journal end - Sun Mar 20 10:34:26 2022
